@@ -1,0 +1,68 @@
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\bin\x86\Debug\Computadoras.exe.config
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\bin\x86\Debug\Computadoras.exe
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\bin\x86\Debug\Computadoras.pdb
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.csprojAssemblyReference.cache
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Area.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Cliente.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Compra.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.T_Compras.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.CRM.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Empleado.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Factura.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Finanzas.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Form1.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Horario.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Inventario.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Marca.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Modulos.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Persona.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Producción.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Producto.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Properties.Resources.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Proveedor.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.RRHH.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.SCM.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Tproducto.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.T_Inventario.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.TPersona.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Usuario.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Venta.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.T_Ventas.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.exe
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación\Computadoras\Computadoras\obj\x86\Debug\Computadoras.pdb
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\bin\x86\Debug\Computadoras.exe.config
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\bin\x86\Debug\Computadoras.exe
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\bin\x86\Debug\Computadoras.pdb
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.csprojAssemblyReference.cache
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Area.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Cliente.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Compra.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.T_Compras.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.CRM.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Empleado.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Factura.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Finanzas.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Form1.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Horario.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Inventario.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Marca.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Modulos.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Persona.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Producción.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Producto.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Properties.Resources.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Proveedor.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.RRHH.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.SCM.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Tproducto.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.T_Inventario.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.TPersona.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Usuario.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.Venta.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.T_Ventas.resources
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.csproj.GenerateResource.cache
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.exe
+C:\Users\Soporte\Desktop\Septimo Semestre\Base de Datos\Recuperación _12672\Computadoras\Computadoras\obj\x86\Debug\Computadoras.pdb

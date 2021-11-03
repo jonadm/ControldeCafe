@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{58CB8034-2A79-47B4-9836-00FCBA6E6F26}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Computadoras</RootNamespace>
+    <AssemblyName>Computadoras</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>lightbrown_coffee_alt_folder_12300.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Area.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Area.Designer.cs">
+      <DependentUpon>Area.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compra.Designer.cs">
+      <DependentUpon>Compra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataDetalles.cs" />
+    <Compile Include="T_Compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_Compras.Designer.cs">
+      <DependentUpon>T_Compras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado.Designer.cs">
+      <DependentUpon>Empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventario.Designer.cs">
+      <DependentUpon>Inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marca.Designer.cs">
+      <DependentUpon>Marca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulos.Designer.cs">
+      <DependentUpon>Modulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Persona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Persona.Designer.cs">
+      <DependentUpon>Persona.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Producción.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producción.Designer.cs">
+      <DependentUpon>Producción.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producto.Designer.cs">
+      <DependentUpon>Producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedor.Designer.cs">
+      <DependentUpon>Proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RRHH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RRHH.Designer.cs">
+      <DependentUpon>RRHH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCM.Designer.cs">
+      <DependentUpon>SCM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_Inventario.Designer.cs">
+      <DependentUpon>T_Inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TPersona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TPersona.Designer.cs">
+      <DependentUpon>TPersona.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Area.resx">
+      <DependentUpon>Area.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compra.resx">
+      <DependentUpon>Compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_Compras.resx">
+      <DependentUpon>T_Compras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado.resx">
+      <DependentUpon>Empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventario.resx">
+      <DependentUpon>Inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marca.resx">
+      <DependentUpon>Marca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulos.resx">
+      <DependentUpon>Modulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Persona.resx">
+      <DependentUpon>Persona.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Producción.resx">
+      <DependentUpon>Producción.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Producto.resx">
+      <DependentUpon>Producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Proveedor.resx">
+      <DependentUpon>Proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RRHH.resx">
+      <DependentUpon>RRHH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCM.resx">
+      <DependentUpon>SCM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_Inventario.resx">
+      <DependentUpon>T_Inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TPersona.resx">
+      <DependentUpon>TPersona.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario-de-la-persona-masculina-del-vector-icono-cliente-con-el-avatar-pantalla-monitor-computadora-en-color-plano-símbolo-131888757.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\273-2738750_login-png-free-image-graphic-design-transparent-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5244853310_01538699c8_z.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5244853310_01538699c8_z1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5244853310_01538699c8_z2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12descarga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saco-con-café-98349883.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-513043240-612x612.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5244853310_01538699c8_z3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\granos-de-café-y-diversos-tipos-fondo-blanco-espacio-para-el-texto-o-la-palabra-140001721.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0d23f4b46bc72e3b21ed6e218d9c5402.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_44268137-stock-photo-coffee-plant-red-coffee-beans.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\86204939-grano-de-café-rama-con-hojas-y-bayas-dibujado-a-mano-vector-vintage-grabado-ilustración-en-color-sob.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\el-proceso-de-asación-de-los-granos-de-café-asados-33056449.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123el-proceso-de-asación-de-los-granos-de-café-asados-33056449.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outline-coffee-bean-icon-isolated-black-simple-vector-28247375.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outline-coffee-bean-icon-isolated-black-simple-vector-282473751.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\40799955-botón-de-metal-azul-con-el-grano-de-café.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\simple-coffee-bean-icon-vector-28320086.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\granos-de-café-y-diversos-tipos-fondo-blanco-espacio-para-el-texto-o-la-palabra-1400017211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d91.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d92.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d93.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d94.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d95.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d97.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d98.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d99.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d910.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d911.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d912.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d913.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d914.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d915.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d916.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39c388bc19692df7aeb8a6324714a9d917.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="lightbrown_coffee_alt_folder_12300.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
